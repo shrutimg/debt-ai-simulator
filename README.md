@@ -18,8 +18,8 @@ An AI-powered debt collection simulator built using Gemini and Gradio.
 * Hugging Face Spaces
 
 ## Demo
-
-Add your Hugging Face Space link here.
+## Live Demo
+[Try the App](https://huggingface.co/spaces/Shrutimg/DAS)
 
 ## Sample Output
 
